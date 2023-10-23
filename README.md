@@ -5,7 +5,7 @@ hashTablePracticum/src/Main.java
 
 Below shows a sample output for one run of my implementation. 
 
-The first image shows inserting key 1. The second image shows inserting key 2. The third image shows inserting key 13. 
+The first image shows inserting key #1. The second image shows inserting key #2. The third image shows inserting key #13. 
 
 <img width="286" alt="Key1" src="https://github.com/StefYaegel/hashTablePracticum/assets/107500032/86c4dcff-e0dd-417a-ac2f-1fa465679df2">
 
